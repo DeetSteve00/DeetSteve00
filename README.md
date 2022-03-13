@@ -1,5 +1,7 @@
-**Some programming languages I know:**
-- C
-- Pascal
+```c
+"Hello there! 😀"
 
-Nothing else
+I know some programming languages:
+  - "C"
+  - "Pascal"
+```
