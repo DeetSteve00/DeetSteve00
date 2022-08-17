@@ -2,6 +2,7 @@
 "Hello there! 😀"
 
 I know some programming languages:
-  - "C"
+  - "C and C++"
   - "Pascal"
+  - "Java"
 ```
