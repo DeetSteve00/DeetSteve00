@@ -1,8 +1,6 @@
-```c
-"Hello there! 😀"
+#Hello
 
-I know some programming languages:
-  - "C and C++"
+I know some programming languages and will probably make random projects with them:
+  - "C"
+  - "C++"
   - "Pascal"
-  - "Java"
-```
