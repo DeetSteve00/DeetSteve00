@@ -1,6 +1,5 @@
 **Hi**
-
 I know some programming languages and will probably make random projects with them:
-  - $C/C++$
-  - $Java$
-  - $Pascal$
+  - C/C++
+  - Java
+  - Pascal
